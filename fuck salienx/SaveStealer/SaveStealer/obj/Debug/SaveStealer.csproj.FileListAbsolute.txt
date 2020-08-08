@@ -1,0 +1,7 @@
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\bin\Debug\SaveStealer.exe.config
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\bin\Debug\SaveStealer.exe
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\bin\Debug\SaveStealer.pdb
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\obj\Debug\SaveStealer.csprojAssemblyReference.cache
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\obj\Debug\SaveStealer.csproj.CoreCompileInputs.cache
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\obj\Debug\SaveStealer.exe
+C:\Users\Herseux\Documents\Desktop\C#\Growtopia-Trace-Savedat-master\SaveStealer\obj\Debug\SaveStealer.pdb
