@@ -14,3 +14,6 @@ v1.0
 
 Discord: Herseux#9446
 Discord Server: https://discord.gg/Y4pbMc7   
+
+# Notes:
+This is made by a gay ratter, not me lmfao, use at your own risk, I didn't make this retarded readme file.
